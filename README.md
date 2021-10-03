@@ -1,6 +1,5 @@
-# Accord - Like Discord but cooler.
+# Coragi
 
-Custom Frontend and Backend that is similar to Discord.
 
 > Built with React TS, Redux, and Node.js.
 
